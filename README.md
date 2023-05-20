@@ -4,7 +4,7 @@ When trying to find the shortest path between two points in a graph or map, two 
 
 Installation
 Make sure you have Python 3 installed. Then, clone or download this repository.
-git clone https://github.com/your-username/shortest-path.git
+git clone https://github.com/nabilse01/Python-Short-Path-Algorithm.git
 
 Algorithms
 A* Algorithm
